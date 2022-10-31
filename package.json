@@ -1,0 +1,19 @@
+{
+  "name": "glitch-against-humanity",
+  "version": "1.0.0",
+  "description": "Cards Against Humanity",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "game",
+    "discord"
+  ],
+  "author": "ericp",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
